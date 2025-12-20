@@ -7,3 +7,4 @@ class Solution:
                 sumtot += int(i)
             number = str(sumtot)      
         return int(number)
+
